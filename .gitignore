@@ -1,0 +1,5 @@
+# Este repo solo documenta la estructura de ~/projects.
+# Cada subcarpeta es un repositorio independiente y no se versiona aquí.
+/*
+!.gitignore
+!README.md
